@@ -1,0 +1,12 @@
+Identifier = "DeathRecap"
+Name = "DeathRecap"
+Description = "Print last 5 damages on death in console."
+Version = "0.1-20150819"
+Email = "riftaddons@seebs.net"
+Author = "Dagonix@Brisesol"
+
+RunOnStartup = {
+  "DeathRecap.lua"
+}
+
+Environment = { "3.3" }
