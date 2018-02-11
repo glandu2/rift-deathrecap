@@ -65,7 +65,7 @@ playerId = Inspect.Unit.Lookup("player")
 
 Command.Event.Attach(Event.Combat.Death, onDeath, "Handle Deaths")
 Command.Event.Attach(Event.Combat.Damage, onDamage, "Handle Damage")
-Command.Event.Attach(Command.Slash.Register("tdc"), printLastDamage, "debug onDeath")
+Command.Event.Attach(Command.Slash.Register("pdr"), printLastDamage, "debug onDeath")
 
-print("Use /tdc to print last damage")
+print("Use /pdr to print last damage")
 
