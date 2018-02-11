@@ -1,7 +1,7 @@
 Identifier = "DeathRecap"
 Name = "DeathRecap"
 Description = "Print last 5 damages on death in console."
-Version = "0.1-20150819"
+Version = "1.0"
 Email = "glandu2epvp / gmail.com"
 Author = "Dagonix@Brisesol"
 
